@@ -1,2 +1,2 @@
-x:=MorphSistema crearMorphSistemaConSistemaVacio .
+x:=MorphSistema crearMorphSistemaConSistemaVacio .\n
 x cargarEjemploDeSistema .
